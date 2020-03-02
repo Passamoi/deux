@@ -14,3 +14,5 @@ Le résultat est magnifique et surtout très fidèle, on y retrouve l’atmosph�
 ## Une vidéo de Whoispablo, disponible sur Vimeo :
 
 [![TOF](https://github.com/Passamoi/deux/blob/master/assets/img/miyazakiVid.jpg)](https://player.vimeo.com/video/104063954)
+
+![alt text](https://github.com/Passamoi/deux/blob/master/assets/img/miyazakiVid.jpg "Millennial Demo Image")
